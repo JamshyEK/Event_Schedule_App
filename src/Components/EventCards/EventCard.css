@@ -1,0 +1,32 @@
+.event-card {
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  border: none;
+  border-radius: 10%;
+  position: relative;
+}
+.event-type {
+  font-size: 16px;
+}
+.event-time {
+  font-size: 13px;
+}
+.date-card {
+  width: 50px;
+  margin-top: -40px;
+  margin-left: 65%;
+  background-color: #c2c2c3;
+}
+.date-body {
+  text-align: center;
+  padding: 0.3rem 0.3rem;
+}
+.date {
+  margin-top: -5px;
+  margin-bottom: 0;
+  font-weight: 900;
+}
+.month {
+  font-weight: 300;
+}
